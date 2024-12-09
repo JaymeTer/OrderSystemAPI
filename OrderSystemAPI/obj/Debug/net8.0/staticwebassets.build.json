@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VvkL7C78R0YhO9q2i6Lv1cZV3I4cHCymcudWBsPT+RQ=",
+  "Source": "OrderSystemAPI",
+  "BasePath": "_content/OrderSystemAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
